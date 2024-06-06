@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: argo-swarm
-        image: opsmx11/docker-swarm:9839424-518
+        image: opsmx11/docker-swarm:9839424-592
